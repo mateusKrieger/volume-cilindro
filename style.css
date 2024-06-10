@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(to  left, rgb(158, 155, 156), rgb(104, 104, 104), rgb(66, 66, 66));
+    color:white ;
+    height: 300px; ;
+    margin: 32px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+button{
+border-radius: 30px;
+background-color: white;
+color: black;
+height: 50px;
+width: 200px;
+font-size: large;
+}
